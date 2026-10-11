@@ -7,8 +7,10 @@
 The project explores how intelligent monitoring systems can help operations teams identify deviations from expected behaviour and prioritize events for investigation.
 
 **Project Status:** Phase 4 — Anomaly Intelligence Services Implemented
+
 **Author:** Tobiloba Nwaizugbe
-**Repository:** [FactoryPulse-AI](https://github.com/nwaizugbechukwuebuka/FactoryPulse-AI)
+
+**Repository:** [![GitHub](https://img.shields.io/badge/GitHub-Project-181717.svg?style=flat\&logo=github)](https://github.com/nwaizugbechukwuebuka/FactoryPulse-AI)
 
 ---
 
