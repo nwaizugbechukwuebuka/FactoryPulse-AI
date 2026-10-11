@@ -404,7 +404,10 @@ The project goes beyond identifying unusual measurements by adding structured ex
 The current implementation provides a foundation for further work on integrated anomaly detection, operational intelligence, and production-oriented monitoring systems.
 
 **Project:** FactoryPulse-AI
+
 **Category:** Machine Learning | Data Analytics | Python Engineering | Industrial Operations Intelligence
+
 **Status:** Prototype — Phase 4 implemented and tested
+
 [![GitHub](https://img.shields.io/badge/GitHub-Project-181717.svg?style=flat\&logo=github)](https://github.com/nwaizugbechukwuebuka/FactoryPulse-AI)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5.svg?style=flat\&logo=linkedin)](https://www.linkedin.com/in/chukwuebuka-tobiloba-nwaizugbe/)
