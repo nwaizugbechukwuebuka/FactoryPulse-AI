@@ -1,0 +1,13 @@
+event_id,timestamp,production_line,equipment_id,event_type,value,unit,target_value,status
+EVT-001,2026-10-01T09:00:00Z,LINE-01,MOTOR-01,temperature,72.0,celsius,85.0,normal
+EVT-002,2026-10-01T09:05:00Z,LINE-01,MOTOR-01,temperature,74.0,celsius,85.0,normal
+EVT-003,2026-10-01T09:10:00Z,LINE-01,MOTOR-01,temperature,89.0,celsius,85.0,warning
+EVT-004,2026-10-01T09:15:00Z,LINE-01,MOTOR-01,temperature,93.0,celsius,85.0,critical
+EVT-005,2026-10-01T09:00:00Z,LINE-02,PRESS-01,production_output,100.0,units_per_hour,95.0,normal
+EVT-006,2026-10-01T09:05:00Z,LINE-02,PRESS-01,production_output,98.0,units_per_hour,95.0,normal
+EVT-007,2026-10-01T09:10:00Z,LINE-02,PRESS-01,production_output,79.0,units_per_hour,95.0,warning
+EVT-008,2026-10-01T09:15:00Z,LINE-02,PRESS-01,production_output,68.0,units_per_hour,95.0,critical
+EVT-009,2026-10-01T09:00:00Z,LINE-03,INSPECT-01,defect_rate,1.2,percent,2.0,normal
+EVT-010,2026-10-01T09:05:00Z,LINE-03,INSPECT-01,defect_rate,1.4,percent,2.0,normal
+EVT-011,2026-10-01T09:10:00Z,LINE-03,INSPECT-01,defect_rate,4.8,percent,2.0,warning
+EVT-012,2026-10-01T09:15:00Z,LINE-03,INSPECT-01,defect_rate,6.1,percent,2.0,critical
