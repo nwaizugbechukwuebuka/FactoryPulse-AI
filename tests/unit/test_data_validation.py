@@ -91,6 +91,6 @@ def test_duplicate_event_ids_are_rejected(
 def test_csv_dataset_passes_validation() -> None:
     result = load_and_validate_csv()
 
-    assert result["total_records"] == 12
-    assert result["valid_count"] == 12
+    assert result["total_records"] == 600
+    assert result["valid_count"] == 600
     assert result["invalid_count"] == 0

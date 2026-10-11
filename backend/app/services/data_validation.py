@@ -76,8 +76,10 @@ def load_and_validate_csv(
         None,
     )
 
+    event_columns = list(ProductionEvent.model_fields)
+
     valid_events, errors = validate_event_records(
-        dataframe.to_dict(orient="records")
+        dataframe[event_columns].to_dict(orient="records")
     )
 
     return {

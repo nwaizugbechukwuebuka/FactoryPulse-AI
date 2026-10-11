@@ -1,3 +1,6 @@
+# Generated analysis reports
+data/processed/*
+!data/processed/.gitkeep
 @'
 .venv/
 __pycache__/
